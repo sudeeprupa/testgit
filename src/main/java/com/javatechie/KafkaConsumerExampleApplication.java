@@ -9,6 +9,8 @@ public class KafkaConsumerExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaConsumerExampleApplication.class, args);
 		System.out.println("Hello World!");
+
+		System.out.println("Hello World!===============================================");
 	}
 
 }
